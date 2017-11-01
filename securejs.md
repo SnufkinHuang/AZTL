@@ -1,7 +1,11 @@
 # AZTL
 開啟VS-CODE
-輸入commamd+shift+P
+
+commamd+shift+P
+
 輸入code
+
+選擇設定預設組建工作
 ![](/secure_pic/securejs_pic01.png)
 
 開啟CMD輸入code ~/.bash_profile
