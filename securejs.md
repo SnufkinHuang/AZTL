@@ -17,5 +17,5 @@ cd到securejs的路徑
 輸入chmod -R 777 securejs
 ![](/secure_pic/securejs_pic07.png)
 
-輸入securejs -v 確認版本
+輸入securejs -v
 ![](/secure_pic/securejs_pic08.png)
