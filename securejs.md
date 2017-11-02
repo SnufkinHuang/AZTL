@@ -27,8 +27,13 @@ cd到securejs的路徑
 securejs -su
 
 Would you like to setup a proxy? (yes/no): no
+
 Enter a nickname for this machine so it can easily be identified on Arxan Developer Portal (AZTL-MAC-PRO05.local): 
+
 Would you like to automatically retrieve a token? (yes/no): yes
+
 Enter ADP username: xxx.xxx@allianz.com.tw
+
 Enter ADP password: 
+
 Is this configuration correct? (yes/no): yes
