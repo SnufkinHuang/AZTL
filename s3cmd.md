@@ -41,6 +41,11 @@ host_bucket = %(bucket)s.s3.hicloud.net.tw
 signature_v2 = True
 ~~~
 
+~~~
+Access Key&Secret Key 
+~~~
+![](/s3cmd_pic/s3cmd_pic09.png)
+
 ---
 
 ## list object or buckets
