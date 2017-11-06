@@ -37,3 +37,17 @@ host_base = s3.hicloud.net.tw
 host_bucket = %(bucket)s.s3.hicloud.net.tw
 
 signature_v2 = True
+
+
+
+# list object or buckets
+
+s3cmd ls
+s3cmd ls s3://buclet_name
+
+# upload file and set ACL allowong read for anyone (-P --acl-piblic)
+
+s3cmd put path/to/file s3://bucket/path/to/file -P
+
+# show information
+s3cmd info s3://bucket/path/to/file
