@@ -5,7 +5,7 @@ commamd+shift+P
 
 輸入code
 
-選擇設定預設組建工作
+選擇 殼層命令:在PATH中安裝"code"命令
 ![](/secure_pic/securejs_pic01.png)
 
 開啟CMD輸入code ~/.bash_profile
